@@ -1,0 +1,8 @@
+in the git we are basicllay used commannd line
+
+like 
+git clone Or git init
+git status
+git add Or git add . or git add -A
+git commit -m "messeage"
+git push origin main/master
